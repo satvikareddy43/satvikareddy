@@ -29,6 +29,4 @@ and alerting.
 Master of Science in Computer and Information Science
 University of North Texas
 
-## 📫 Connect with me
 
-LinkedIn: linkedin.com/in/satvika-reddy-273705429
